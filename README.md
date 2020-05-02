@@ -18,9 +18,9 @@ If you are looking for documentation around the companion applications check out
   [You can also use the mock services file instead of generating your own](/.travis/mock-google-services.json)
   The file should contain client IDs for `io.homeassistant.companion.android` and `io.homeassistant.companion.android.debug` for debugging to work properly
 
-- Start Android Studio, open your source code folder and check if the Gradle build will be successful
+- Start Android Studio, open your source code folder and check if the Gradle build was successful
 
-- If the build is successful, you can run the app by doing the following: click **Run** -> **Run 'app'**
+- If the build was successful, you can run the app by doing the following: click **Run** -> **Run 'app'**
 
 - Connect your phone or create a new virtual device following on screen instruction
 
